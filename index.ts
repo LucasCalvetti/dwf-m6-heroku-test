@@ -19,7 +19,7 @@ app.get("/db-env", (req, res) => {
 
 app.get("/hola", (req, res) => {
     res.json({
-        message: "hola soy marce",
+        message: "hola soy lucas",
     });
 });
 
